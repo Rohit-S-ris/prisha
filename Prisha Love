@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Reasons Why I Love Prisha</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>10 Reasons Why I Love Prisha</h1>
+        <ul class="reasons-list">
+            <li>1. Her smile brightens my day.</li>
+            <li>2. She is incredibly supportive and understanding.</li>
+            <li>3. Her kindness and compassion towards others are inspiring.</li>
+            <li>4. She always knows how to make me laugh.</li>
+            <li>5. Her intelligence and wisdom amaze me.</li>
+            <li>6. She has a beautiful and caring heart.</li>
+            <li>7. Her creativity and talent in art are remarkable.</li>
+            <li>8. She is my best friend and confidant.</li>
+            <li>9. Her passion and drive motivate me.</li>
+            <li>10. She loves me unconditionally.</li>
+        </ul>
+    </div>
+</body>
+</html>
